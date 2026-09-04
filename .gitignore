@@ -32,6 +32,7 @@ update_db.py
 *.jpg
 *.jpeg
 *.svg
+!frontend/public/*.svg
 
 # Next.js
 frontend/.next/
@@ -42,6 +43,6 @@ frontend/dist/
 results/
 
 # md personal files
-architecture.md
-CLAUDE.md
-AGENTS.md
+/architecture.md
+/CLAUDE.md
+/AGENTS.md
