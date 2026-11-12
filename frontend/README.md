@@ -36,8 +36,7 @@ frontend/
 ├── tsconfig.json               ← Configuración TypeScript
 ├── eslint.config.mjs           ← Reglas ESLint
 ├── README.md                   ← Este archivo
-├── AGENTS.md                   ← Reglas para agentes Cursor
-└── CLAUDE.md                   ← Referencia a AGENTS.md
+└── AGENTS.md                   ← Reglas para agentes Cursor
 ```
 
 ---

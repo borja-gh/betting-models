@@ -245,8 +245,7 @@ TFM/
 │   ├── tsconfig.json                  ← Configuración TypeScript
 │   ├── eslint.config.mjs              ← Configuración ESLint
 │   ├── README.md                      ← Documentación específica frontend
-│   ├── AGENTS.md                      ← Reglas para agentes Cursor
-│   └── CLAUDE.md                      ← Referencia a AGENTS.md
+│   └── AGENTS.md                      ← Reglas para agentes Cursor
 ├── .gitignore                         ← Exclusiones Git
 ├── requirements.txt                   ← Dependencias Python
 ├── test_api.py                        ← Script de prueba para endpoints
